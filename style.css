@@ -1,0 +1,25 @@
+.miicono{
+    font-size: 20px;
+    color: grey;
+    opacity: 50%;
+    }
+
+.ubicacion{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}    
+
+.colorUno{
+    color: white;
+}
+
+.colorDos{
+    background-color:#008B8B;
+   
+}
+
+.colorTres{
+    background-color:#b0f2c2;
+}
+
