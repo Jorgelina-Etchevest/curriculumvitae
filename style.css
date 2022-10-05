@@ -4,6 +4,12 @@
     opacity: 50%;
     }
 
+.icono{
+    font-size: 60px;
+    color: #008B8B;
+    text-align: center;
+    }
+
 .ubicacion{
     display: flex;
     flex-direction: row;
